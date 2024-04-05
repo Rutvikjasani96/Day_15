@@ -1,5 +1,5 @@
 public class Question_4 {
-//    intially, n people are in circle, person 1 has knife he kills the adjacent person,
+//    initially, n people are in circle, person 1 has knife he kills the adjacent person,
 //    and pass on the knife to next adjacent clockwise person
     public static void main(String[] args) {
         int n= 11;
